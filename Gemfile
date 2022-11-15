@@ -50,3 +50,6 @@ group :test do
   gem "rspec", "~> 3.10"
   gem "rspec-json_expectations", "~> 2.2"
 end
+
+# # https://github.com/faker-ruby/faker
+gem "faker", "~> 2.18"
